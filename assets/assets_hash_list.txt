@@ -1,0 +1,10 @@
+# Md5 HashValue   FileName
+b2b0e9fd47582f3b51bb6374abf3cdc0  sponsors.vga
+bd595173db657b45f0dde32f4634ecf8  ticket.vga
+c8435edb0fcfb1b1fb47b1beee4b8c10  validbtn.vga
+7f50a5cf5d9e15d0773d678badca65a4  phone2.vga
+edfac140f4bed3e6aae377f6aca64a25  pitch.vga
+
+#these next two entries are invalid
+edfac140f4bed3e6aae377f6aca64a23  pitch.vga
+7f50a5cf5d9e15d0773d678badca65a4  missing_file.txt
