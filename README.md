@@ -16,3 +16,4 @@ extracted and placed in the assets directory.
 ## Directory Structure
 Tools - A bunch of tools used in the development of the port. Some in Python,
 some in C.
+Assets - Where the original PM2 files need to go.
