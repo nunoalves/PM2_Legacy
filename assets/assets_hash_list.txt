@@ -1,10 +1,32 @@
 # Md5 HashValue   FileName
-b2b0e9fd47582f3b51bb6374abf3cdc0  sponsors.vga
-bd595173db657b45f0dde32f4634ecf8  ticket.vga
-c8435edb0fcfb1b1fb47b1beee4b8c10  validbtn.vga
-7f50a5cf5d9e15d0773d678badca65a4  phone2.vga
-edfac140f4bed3e6aae377f6aca64a25  pitch.vga
-
-#these next two entries are invalid
-edfac140f4bed3e6aae377f6aca64a23  pitch.vga
-7f50a5cf5d9e15d0773d678badca65a4  missing_file.txt
+cd561d3f94acad1de3b8f9428443b12f fax.vga      
+f824414bcf7a51324812da1751f28dbc font77c.vga   
+3098af359b632bb18828a6c40d928992 matball.vga   
+edfac140f4bed3e6aae377f6aca64a25 pitch.vga     
+b2b0e9fd47582f3b51bb6374abf3cdc0 sponsors.vga
+4fde3fc9c0f6c20a5025951e7248cba9 font16c.vga  
+02220732383502a3bfbe311e7f6986d0 fontf9.vga    
+f45c2fde708b002c54cce780cc5a3f0f matbtn.vga    
+ef37c6df52be519ae533b23b4bc6d267 pitchbit.vga  
+bd595173db657b45f0dde32f4634ecf8 ticket.vga
+17a198e24e66410aa43734bbf3afa7b5 font55.vga   
+c40ee731572aa53ad0b534c5c8131847 gndscore.vga  
+35041ef135fb350808427f090d6ae4bb matspd.vga    
+6ce7120a3d9e39ea3786ce0ae9056cff posgraph.vga  
+c8435edb0fcfb1b1fb47b1beee4b8c10 validbtn.vga
+5e8cc535bbed43d6d97a07bd0326cb5e font57.vga   
+91bd6eb23335feea19e8ab235bd82478 gndseats.vga  
+80beee345b54767fe8b1063072c8590b paldata.vga   
+02baf64d2c2d4faf400cbf970e713b46 report.vga
+765751e02d1084abc055619cfd650fdc font57b.vga  
+553b696cf2800369a36c134bd402ee0b groundix.vga  
+fd4b5f0760d5aa99e69f42a819997760 paltitle.vga  
+3c391c9a2cba176dd1675d5b58f8304b result.vga
+12178d0c9f40b55d51bb9a937b6ada6c font77.vga   
+132dccad28ee2cd2d5dd5f1a8cc3091c icons.vga     
+7f50a5cf5d9e15d0773d678badca65a4 phone2.vga    
+2cc069bb09c80779318d7ea5f93c5ab4 sec2.vga
+1c6245fd8821afbbdfb6d9f2ead20a92 font77b.vga  
+39b2d46fd0a989292e5ce35a9dcd31ff impslbar.vga  
+e87f6b02983c1de42dc55edeed1092f1 phonem.vga    
+2ca959027d093877bea5eb65d9916c57 sh.vga
