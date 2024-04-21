@@ -1,8 +1,7 @@
-from PIL import Image
-import os
-import sys
 
 """
+PM2 VGA Files To BMP
+
 This script reads the .vga files from the Premier Manager 2 assets and creates
 a bmp file. The .vga format is pretty simple. Inside the file, there are a 
 bunch of images. Each image starts with an 8-byte metadata that contains the x
@@ -20,8 +19,12 @@ set of three bytes represents an RGB value, effectively mapping a byte (0 to
 0xFF) to an RGB value. However one thing was weird, the RGB value for each
 byte seemed really dark. I was able to match the colors from the palette file 
 to the game by multiplying each value by 4. This is set on the variable
-palette_adjustment 
+palette_adjustment. 
 """
+
+from PIL import Image
+import os
+import sys
 
 def mergeImages(outputBaseFilename, images, images_per_row):
     # Determine the total size of the merged image
